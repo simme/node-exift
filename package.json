@@ -1,6 +1,14 @@
 { "name": "exift"
 , "version": "0.0.1"
 , "author": "Simon Ljungberg <hi@iamsim.me>"
+, "main": "exift.js"
+, "keywords": [
+  "exif", "image", "exiftool"
+  ]
+, "repository": {
+  "type": "git",
+  "url": "https://github.com/simme/node-exift.git"
+  }
 , "devDependencies":
   { "docco": ""
   , "mocha": ""
