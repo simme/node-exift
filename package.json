@@ -1,0 +1,7 @@
+{ "name": "exift"
+, "version": "0.0.1"
+, "author": "Simon Ljungberg <hi@iamsim.me>"
+, "devDependencies":
+  { "docco": ""
+  , "mocha": ""
+} }
