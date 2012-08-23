@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/simme/node-exift.png)](http://travis-ci.org/simme/node-exift)
 Exift
 -----
 
